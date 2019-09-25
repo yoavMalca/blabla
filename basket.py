@@ -1,6 +1,7 @@
 from product import *
 
 class Basket():
+    print "new basket"
     def __init__(self,list1):
         self.list1 = list1
     
